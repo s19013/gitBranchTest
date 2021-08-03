@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">gitTest</string>
+    <string name="text1">abcd</string>
+    <string name="text2">efgh</string>
 </resources>
